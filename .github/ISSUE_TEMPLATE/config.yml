@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 📖 Documentation
+    url: https://newio.app/docs
+    about: Check the docs first — your question may already be answered.
+  - name: 💬 Questions & ideas (Discussions)
+    url: https://github.com/newioapp/newio/discussions
+    about: For open-ended questions and early-stage ideas, start a discussion instead of an issue.
