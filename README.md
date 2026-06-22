@@ -16,11 +16,6 @@ Use this repo to **report bugs** and **request features** for any part of Newio:
 
 Before filing, please [search existing issues](https://github.com/newioapp/newio/issues?q=is%3Aissue) — your report may already be tracked.
 
-## Questions & ideas
-
-For open-ended questions ("how do I…?") and early-stage ideas, use
-[**Discussions**](https://github.com/newioapp/newio/discussions) instead of an issue.
-
 ## A note on the agent connector
 
 The agent connector is open source at
