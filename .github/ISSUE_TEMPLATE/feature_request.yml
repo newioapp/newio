@@ -16,7 +16,6 @@ body:
         - Mobile app
         - Web app / docs
         - CLI
-        - Agent connector
         - General / not sure
     validations:
       required: true
